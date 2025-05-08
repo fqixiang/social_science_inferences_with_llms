@@ -1,5 +1,10 @@
 # Addressing LLM-related Measurement Error in Social Science Modeling Research
 
+## Workshop
+[Link](https://sodascience.github.io/workshop_llm_data_collection/) to slides, tutorials (`R` and `Python`) and data.
+
+## Abstract
+
 With the advent of large language models (LLMs), the collection of measurements related to  <ins>social science constructs</ins> (e.g., personality traits, political attitudes, human values) has become easier, faster and more affordable. These measurements are subsequently used for <ins>modelling of societal and group processes</ins> that social scientists typically engage in, where <ins>inferences from samples to populations are also made</ins>. Valid modelling and inferences, however, requires high-quality measurements or at the very least, <ins>methods to deal with the presence of measurement error</ins>. Just like traditional questionnaire-based measurements, LLM-based measurements have been shown to suffer from validity and reliability issues. 
 
 While there is an abundance of research literature in dealing with measurement error, they focus on questionnaire-based measurement error. <ins>It is relatively new to social scientists how to deal with measurement issues arising from LLMs</ins>. 
